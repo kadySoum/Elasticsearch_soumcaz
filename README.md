@@ -1,6 +1,6 @@
 # Elasticsearch_soumcaz
 
-Display all documents
+Display all documents with postman
 ```sh
 http://localhost:8080/api/alldocument
 ```
